@@ -10,7 +10,7 @@
 
 ![delta](img/img.png)
 
->> <h3> Dictionary </h3>
+
 
 <table>
    <thead>
@@ -130,3 +130,6 @@
   <li>Wait for the infrastructure creation process to be completed.</li>
 </ol>
 <p>After following these steps, the infrastructure will be ready and its ETL may be executed.</p>
+
+
+>> <h3> Dictionary </h3>
