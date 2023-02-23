@@ -14,11 +14,6 @@
 
 <table>
    <thead>
-     <Tr>
-       <Hh> Table </h>
-       <HH> Field </h>
-       <Hh> Type </h>
-       <Hh> Description </h>
      </Tr>
    </Thead>
    <tbody>
